@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-queryresultio-text:2.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-queryresultio-text/2.8.6/45c05f494dba779787a7e139f72544348786e0fe/sesame-queryresultio-text-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-queryresultio-text/2.8.6/573907d63c4ec48c21d56d13679fd0f223d71561/sesame-queryresultio-text-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

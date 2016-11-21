@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="PELOPS:main" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/log4j-1.2.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/NXOpenUIRemote.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/NXOpenUI.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/matlabcontrol-4.1.0-javadoc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/matlabcontrol-4.1.0-sources.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/matlabcontrol-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/matlabcontrol-demo-4.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/NXOpen.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/NXOpenRemote.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../repo/NXOpenUF.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: net.sourceforge.owlapi:pellet-profiler-ignazio1977:2.4.0-ignazio1977" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-runtime:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.tukaani:xz:1.5" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.owlapi:pellet-jena-ignazio1977:2.4.0-ignazio1977" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.owlapi:pellet-owlapi-ignazio1977:2.4.0-ignazio1977" level="project" />
+    <orderEntry type="library" name="Gradle: org.jfree:jfreechart:1.0.15" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-math:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: gnu.getopt:java-getopt:1.0.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" name="Gradle: net.sf.trove4j:trove4j:3.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:guava:18.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.directory.studio:org.apache.commons.io:2.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-model:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-api:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-manager:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-http:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-sparql:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-contextaware:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-sail:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-http-client:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-api:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-federation:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryparser-api:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryparser-serql:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryparser-sparql:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryresultio-api:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryresultio-binary:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryresultio-sparqljson:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryresultio-sparqlxml:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryresultio-text:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-dataset:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-http-protocol:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-api:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-datatypes:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-languages:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-binary:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-jsonld:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-ntriples:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-nquads:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-n3:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-rdfjson:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-rdfxml:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-trix:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-turtle:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-rio-trig:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-inferencer:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-lucene:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-memory:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-nativerdf:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-rdbms:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.owlapi:pellet-core-ignazio1977:2.4.0-ignazio1977" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.jena:jena-core:2.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.jena:jena-arq:2.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.owlapi:pellet-query-ignazio1977:2.4.0-ignazio1977" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.owlapi:owlapi-distribution:4.1.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jfree:jcommon:1.0.17" level="project" />
+    <orderEntry type="library" name="Gradle: com.lowagie:itext:2.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: aopalliance:aopalliance:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-util:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-query:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-repository-event:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryalgebra-model:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.4" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-queryalgebra-evaluation:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.opencsv:opencsv:3.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jsonld-java:jsonld-java:0.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-model:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-lucene-api:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-core:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queries:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-highlighter:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-analyzers-common:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-queryparser:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-spatial:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.openrdf.sesame:sesame-sail-base:2.8.6" level="project" />
+    <orderEntry type="library" name="Gradle: commons-dbcp:commons-dbcp:1.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.ansell.aterms:aterm-java:1.8.2-p1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jgrapht:jgrapht-jdk1.5:0.7.3" level="project" />
+    <orderEntry type="library" name="Gradle: xerces:xercesImpl:2.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.jena:jena-iri:0.9.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr-runtime:3.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jsonld-java:jsonld-java-sesame:0.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.semarglproject:semargl-sesame:0.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: bouncycastle:bcmail-jdk14:138" level="project" />
+    <orderEntry type="library" name="Gradle: bouncycastle:bcprov-jdk14:138" level="project" />
+    <orderEntry type="library" name="Gradle: org.mapdb:mapdb:1.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient-cache:4.2.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:jcl-over-slf4j:1.7.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.spatial4j:spatial4j:0.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-join:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-memory:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-sandbox:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.lucene:lucene-misc:5.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-pool:commons-pool:1.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.ansell.jjtraveler:jjtraveler:0.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.ansell.aterms:shared-objects:1.4.9-p1" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.6.4" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:stringtemplate:3.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: antlr:antlr:2.7.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.semarglproject:semargl-core:0.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.semarglproject:semargl-rdfa:0.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.semarglproject:semargl-rdf:0.6.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.inject:guice:4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.inject.extensions:guice-assistedinject:4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.inject.extensions:guice-multibindings:4.0" level="project" />
+    <orderEntry type="library" name="Gradle: xml-apis:xml-apis:1.4.01" level="project" />
+  </component>
+</module>

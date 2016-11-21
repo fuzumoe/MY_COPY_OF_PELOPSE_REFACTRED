@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-rio-trix:2.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-rio-trix/2.8.6/242a8843ec3a6464de87f9184d1a69b49d06b4ad/sesame-rio-trix-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-rio-trix/2.8.6/b7f0485077d414e7e671d6624f653e2a892a3f9/sesame-rio-trix-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

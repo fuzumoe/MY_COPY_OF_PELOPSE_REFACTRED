@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-queryparser-serql:2.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-queryparser-serql/2.8.6/2a61d7b5470da537eb0010b56d7d8bf809cc64ad/sesame-queryparser-serql-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-queryparser-serql/2.8.6/ea350c19c2b491e8ed5fc6f447e6aa2070af0d96/sesame-queryparser-serql-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

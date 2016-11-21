@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_77"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/matlabcontrol-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/matlabcontrol-4.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/matlabcontrol-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/matlabcontrol-demo-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/NXOpen.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/NXOpenRemote.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/NXOpenUF.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/NXOpenUI.jar"/>
+	<classpathentry kind="lib" path="F:/PELOPS/PELOPS/repo/NXOpenUIRemote.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="repo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/repo/NXOpen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/NXOpenUI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/matlabcontrol-4.1.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/NXOpenRemote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/matlabcontrol-demo-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/NXOpenUIRemote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/matlabcontrol-4.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/matlabcontrol-4.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/repo/NXOpenUF.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

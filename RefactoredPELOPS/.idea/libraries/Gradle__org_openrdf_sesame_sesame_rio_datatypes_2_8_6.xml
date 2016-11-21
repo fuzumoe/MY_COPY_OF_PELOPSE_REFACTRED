@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-rio-datatypes:2.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-rio-datatypes/2.8.6/fe5d4ae9926a5a2f1e1545e86d5631edf4035c0d/sesame-rio-datatypes-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-rio-datatypes/2.8.6/9247725871a9eb1a9a267b484db075bb5dee5e8a/sesame-rio-datatypes-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

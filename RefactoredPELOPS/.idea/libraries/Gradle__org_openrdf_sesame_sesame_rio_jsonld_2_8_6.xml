@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-rio-jsonld:2.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-rio-jsonld/2.8.6/7404d758b830a41d6a7d1788e59b441642158a4c/sesame-rio-jsonld-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-rio-jsonld/2.8.6/2b0b16d4c748b7b13b1ca4b8b03fe4f6a462990f/sesame-rio-jsonld-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

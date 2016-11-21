@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-queryalgebra-evaluation:2.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-queryalgebra-evaluation/2.8.6/278f0f0ef1b99ff5955d4a702810dff586267127/sesame-queryalgebra-evaluation-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-queryalgebra-evaluation/2.8.6/e8a8cf6b9e70c2ff53f65257ecf6f9e4bfaf4f83/sesame-queryalgebra-evaluation-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

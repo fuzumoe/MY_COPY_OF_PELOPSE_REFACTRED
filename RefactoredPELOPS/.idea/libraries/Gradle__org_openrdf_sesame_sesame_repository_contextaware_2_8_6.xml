@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openrdf.sesame:sesame-repository-contextaware:2.8.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-repository-contextaware/2.8.6/36ae0baf44dd88d9e631be0b0c654b42b482637/sesame-repository-contextaware-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openrdf.sesame/sesame-repository-contextaware/2.8.6/e3b253ff4c415c40dc8018f6d79f680ad884cf0a/sesame-repository-contextaware-2.8.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
